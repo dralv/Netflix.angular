@@ -1,6 +1,6 @@
 # NetflixAngular
 
-![image](https://user-images.githubusercontent.com/87019769/190646687-8875c64e-0c6b-40eb-ac9d-6f6d2412000c.png)#vitrinedev
+![image](https://user-images.githubusercontent.com/87019769/190646687-8875c64e-0c6b-40eb-ac9d-6f6d2412000c.png#vitrinedev)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
